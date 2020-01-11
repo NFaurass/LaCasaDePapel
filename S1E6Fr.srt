@@ -1,0 +1,2491 @@
+1
+00:00:06,040 --> 00:00:09,280
+Il y a un scalpel dans la trousse.
+
+2
+00:00:09,360 --> 00:00:10,600
+C'est Berlin qui l'a.
+
+3
+00:00:11,880 --> 00:00:15,360
+Les chirurgiens.
+Va en chercher un. Allez.
+
+4
+00:00:15,440 --> 00:00:16,520
+Attends !
+
+5
+00:00:17,560 --> 00:00:18,520
+Donne-lui ce mot.
+
+6
+00:00:30,760 --> 00:00:32,760
+{\an8}SAMEDI
+18 H 31
+
+7
+00:00:38,040 --> 00:00:40,800
+{\an8}33 HEURES DE BRAQUAGE
+
+8
+00:01:22,960 --> 00:01:23,800
+Quoi ?
+
+9
+00:01:25,720 --> 00:01:27,840
+On voit des gens comme toi,
+� la t�l�.
+
+10
+00:01:28,920 --> 00:01:29,760
+Comme moi ?
+
+11
+00:01:30,680 --> 00:01:31,560
+Des braqueurs.
+
+12
+00:01:33,200 --> 00:01:34,760
+Mais tu d�tonnes.
+
+13
+00:01:35,160 --> 00:01:36,760
+Ce n'est pas ton truc.
+
+14
+00:01:36,840 --> 00:01:37,720
+Pourquoi ?
+
+15
+00:01:39,560 --> 00:01:41,120
+Ta fa�on de tenir ton arme.
+
+16
+00:01:48,560 --> 00:01:50,800
+Tu es fille d'ambassadeur ou de Rambo ?
+
+17
+00:01:51,400 --> 00:01:53,760
+Mon p�re voulait un gar�on.
+
+18
+00:01:54,640 --> 00:01:58,120
+Il m'emm�ne chasser
+depuis que j'ai cinq ans.
+
+19
+00:01:58,200 --> 00:02:00,560
+Chasser ? Et tu tires sur quoi ?
+
+20
+00:02:01,320 --> 00:02:02,720
+Des ballons � la f�te foraine ?
+
+21
+00:02:04,280 --> 00:02:07,320
+Des sangliers, des cerfs, des antilopes.
+
+22
+00:02:08,440 --> 00:02:12,000
+Mais mon p�re pr�f�rerait chasser
+des �cologistes.
+
+23
+00:02:19,040 --> 00:02:20,560
+Je n'aime pas les armes.
+
+24
+00:02:22,080 --> 00:02:23,760
+Une fois, � Norwich,
+
+25
+00:02:24,920 --> 00:02:28,160
+le fusil d'un ami de mon p�re
+a tir� tout seul.
+
+26
+00:02:30,200 --> 00:02:31,280
+J'ai tout vu.
+
+27
+00:02:34,200 --> 00:02:36,760
+La plaie dans son dos.
+Les gens qui hurlaient.
+
+28
+00:02:37,920 --> 00:02:39,080
+C'est comme voir
+
+29
+00:02:40,800 --> 00:02:43,840
+un accident de voiture,
+et on n'arrive pas � oublier
+
+30
+00:02:45,360 --> 00:02:46,360
+la tache de sang.
+
+31
+00:02:51,040 --> 00:02:51,880
+Regarde.
+
+32
+00:02:57,840 --> 00:02:59,240
+Il n'est plus charg�.
+
+33
+00:03:02,200 --> 00:03:03,160
+Rien � craindre.
+
+34
+00:03:16,160 --> 00:03:17,280
+Alors, docteur ?
+
+35
+00:03:18,480 --> 00:03:19,320
+Je survivrai ?
+
+36
+00:03:19,880 --> 00:03:20,960
+La balle...
+
+37
+00:03:21,800 --> 00:03:24,440
+s'est log�e dans la clavicule.
+
+38
+00:03:25,800 --> 00:03:27,720
+Elle n'a touch� aucun organe
+
+39
+00:03:28,360 --> 00:03:30,560
+et je ne vois pas...
+
+40
+00:03:31,240 --> 00:03:32,120
+d'�clats osseux.
+
+41
+00:03:33,880 --> 00:03:35,280
+On ne meurt pas de �a.
+
+42
+00:03:37,800 --> 00:03:38,720
+Bougez-vous.
+
+43
+00:03:38,800 --> 00:03:41,200
+<i>Un diagnostic �tait trop long pour Denver.</i>
+
+44
+00:03:42,200 --> 00:03:44,120
+- Anesth�sie.
+- <i>M�nica se vidait de son sang.</i>
+
+45
+00:03:46,000 --> 00:03:47,760
+<i>Il devait voler les scalpels</i>
+
+46
+00:03:48,480 --> 00:03:50,800
+<i>ou l'�pargner n'aurait servi � rien.</i>
+
+47
+00:03:50,880 --> 00:03:52,160
+Quel type d'anesth�sie ?
+
+48
+00:03:52,240 --> 00:03:55,760
+En cas d'urgence,
+mieux vaut endormir le patient.
+
+49
+00:03:57,520 --> 00:03:59,680
+Mieux vaut une anesth�sie locale.
+
+50
+00:04:00,280 --> 00:04:05,360
+Ainsi, mon ami Arturo et moi pourrons
+converser pendant l'intervention.
+
+51
+00:04:13,760 --> 00:04:14,720
+Du calme.
+
+52
+00:04:34,040 --> 00:04:35,320
+{\an8}C'est pour quoi ?
+
+53
+00:04:35,400 --> 00:04:39,040
+{\an8}Surveiller la dur�e de l'anesth�sie,
+vingt-cinq minutes,
+
+54
+00:04:39,120 --> 00:04:43,080
+{\an8}et pouvoir lui injecter une autre dose
+en cas de probl�me.
+
+55
+00:04:46,040 --> 00:04:47,400
+{\an8}Affichez la pendule.
+
+56
+00:04:51,640 --> 00:04:53,400
+{\an8}<i>L'op�ration �tait planifi�e</i>
+
+57
+00:04:53,680 --> 00:04:57,160
+{\an8}<i>et devait durer 25 minutes,</i>
+<i>comme l'avait ordonn� l'inspecteur.</i>
+
+58
+00:04:58,240 --> 00:05:02,200
+{\an8}<i>Afin de laisser deux policiers d�guis�s</i>
+<i>en Dal� dans la fabrique.</i>
+
+59
+00:05:02,960 --> 00:05:06,760
+{\an8}<i>Ou, en cas d'�chec, deux cadavres</i>
+<i>dans les conduits d'a�ration.</i>
+
+60
+00:05:07,720 --> 00:05:08,800
+{\an8}L�che ce fusil.
+
+61
+00:05:13,120 --> 00:05:15,240
+{\an8}Il n'est pas charg�.
+L�che-le avant que je m'�nerve.
+
+62
+00:05:17,440 --> 00:05:18,880
+{\an8}La balle est dans la chambre.
+
+63
+00:06:27,040 --> 00:06:28,160
+{\an8}Su�rez, vous me recevez ?
+
+64
+00:06:28,240 --> 00:06:29,160
+{\an8}R.A.S.
+
+65
+00:06:30,000 --> 00:06:31,120
+{\an8}<i>En approche.</i>
+
+66
+00:06:44,440 --> 00:06:46,160
+{\an8}Demi-tour, mains sur la nuque.
+
+67
+00:06:49,120 --> 00:06:50,080
+{\an8}Maintenant !
+
+68
+00:06:53,440 --> 00:06:54,280
+{\an8}Maintenant ?
+
+69
+00:06:56,280 --> 00:06:57,120
+{\an8}Maintenant ?
+
+70
+00:06:58,440 --> 00:07:00,320
+On fait moins la maligne !
+
+71
+00:07:01,120 --> 00:07:02,760
+Vas-y, putain.
+
+72
+00:07:03,640 --> 00:07:04,640
+Tire.
+
+73
+00:07:05,440 --> 00:07:07,080
+Pauvre idiote. � genoux.
+
+74
+00:07:09,360 --> 00:07:11,280
+- Bistouri.
+- Un instant.
+
+75
+00:07:11,360 --> 00:07:13,360
+Les armes, c'est moi qui les distribue.
+
+76
+00:07:15,000 --> 00:07:16,160
+Bistouri.
+
+77
+00:07:22,360 --> 00:07:24,080
+Tu t'es bien plant�, Arturo.
+
+78
+00:07:24,640 --> 00:07:25,960
+Te tromper de nom...
+
+79
+00:07:28,880 --> 00:07:29,880
+C'est normal.
+
+80
+00:07:32,040 --> 00:07:33,960
+Tringler M�nica le matin.
+
+81
+00:07:34,440 --> 00:07:35,960
+Laura, l'apr�s-midi.
+
+82
+00:07:36,560 --> 00:07:37,800
+On s'y perd.
+
+83
+00:07:40,320 --> 00:07:41,960
+Je les aime toutes les deux.
+
+84
+00:07:43,440 --> 00:07:44,320
+C'est vrai.
+
+85
+00:07:44,400 --> 00:07:48,520
+C'est facile de me juger.
+Tout le monde me prend pour...
+
+86
+00:07:49,840 --> 00:07:51,640
+une ordure.
+
+87
+00:07:52,320 --> 00:07:53,880
+Un enfoir�.
+
+88
+00:07:54,400 --> 00:07:57,440
+Dieu me garde
+d'�mettre tout jugement moral.
+
+89
+00:08:12,040 --> 00:08:13,640
+Je comprends parfaitement.
+
+90
+00:08:15,400 --> 00:08:17,400
+Vous pouvez me parler.
+
+91
+00:08:17,480 --> 00:08:19,680
+Sereinement. De tout.
+
+92
+00:08:20,520 --> 00:08:22,760
+En fait, je suis un connard.
+
+93
+00:08:25,680 --> 00:08:28,200
+Un pauvre homme �pris de deux femmes
+
+94
+00:08:30,000 --> 00:08:32,880
+et qui n'a pas les couilles
+d'en choisir une.
+
+95
+00:08:34,440 --> 00:08:36,200
+<i>Et au milieu de cet aveu,</i>
+
+96
+00:08:36,560 --> 00:08:38,080
+<i>Denver eut son bistouri.</i>
+
+97
+00:08:38,160 --> 00:08:41,800
+<i>Et le mot d'amour jet� � la mer par M�nica</i>
+<i>tomba dans le vide,</i>
+
+98
+00:08:42,400 --> 00:08:43,240
+<i>ou presque.</i>
+
+99
+00:08:43,320 --> 00:08:46,240
+<i>Car Nairobi,</i>
+<i>toujours attentive aux d�tails,</i>
+
+100
+00:08:46,760 --> 00:08:47,600
+<i>le vit.</i>
+
+101
+00:08:49,440 --> 00:08:52,200
+- Pourquoi tu as fait �a, bordel ?
+- D�sol�e.
+
+102
+00:08:57,960 --> 00:08:58,960
+Pardon.
+
+103
+00:08:59,480 --> 00:09:00,320
+� terre !
+
+104
+00:09:16,160 --> 00:09:17,880
+Vous �tes � 11 m de l'entr�e.
+
+105
+00:09:18,480 --> 00:09:20,560
+<i>Re�u. Nous continuons.</i>
+
+106
+00:09:25,640 --> 00:09:27,880
+Sale petite conne.
+
+107
+00:09:28,960 --> 00:09:29,800
+D�sol�e.
+
+108
+00:09:29,880 --> 00:09:31,040
+Ta gueule.
+
+109
+00:09:31,120 --> 00:09:35,040
+Ne me raconte pas ta vie.
+Je ne suis pas ton putain de pote.
+
+110
+00:09:37,120 --> 00:09:40,480
+Tu es tar�e, si tu veux �tre pote
+avec ton ravisseur.
+
+111
+00:09:57,240 --> 00:09:58,520
+Tu sais que...
+
+112
+00:10:00,680 --> 00:10:03,040
+je suis enceinte de six semaines.
+
+113
+00:10:04,120 --> 00:10:06,360
+Je m'inqui�te plus pour le b�b�
+que pour moi.
+
+114
+00:10:06,920 --> 00:10:12,120
+Il faut plus qu'une infection
+pour faire un enfant en mauvaise sant�.
+
+115
+00:10:13,400 --> 00:10:14,720
+Tu t'appelles comment ?
+
+116
+00:10:16,520 --> 00:10:18,680
+Moscou. On m'appelle Moscou.
+
+117
+00:10:18,760 --> 00:10:20,040
+Dis-moi, Moscou...
+
+118
+00:10:21,520 --> 00:10:22,400
+c'est comment ?
+
+119
+00:10:23,600 --> 00:10:24,480
+Je veux dire...
+
+120
+00:10:25,360 --> 00:10:26,640
+�tre parent.
+
+121
+00:10:28,960 --> 00:10:29,840
+�tre parent...
+
+122
+00:10:33,440 --> 00:10:36,560
+�tre parent,
+c'est comme recevoir une charrette
+
+123
+00:10:37,040 --> 00:10:42,240
+pleine de probl�mes sur la t�te.
+
+124
+00:10:43,800 --> 00:10:47,400
+C'est s'inqui�ter pour le restant
+de ses jours.
+
+125
+00:10:49,240 --> 00:10:55,880
+D'abord, quand le b�b� tousse.
+On ne va plus au bar, on va aux Urgences.
+
+126
+00:10:56,280 --> 00:10:57,920
+Peu importe. Je ne bois pas.
+
+127
+00:10:58,400 --> 00:10:59,240
+Dommage.
+
+128
+00:10:59,800 --> 00:11:04,800
+�a fait du bien de boire un petit coup
+quand il dort enfin.
+
+129
+00:11:06,880 --> 00:11:08,120
+Apr�s, c'est l'�cole.
+
+130
+00:11:09,800 --> 00:11:10,720
+Un parent
+
+131
+00:11:11,440 --> 00:11:13,160
+a tr�s peur
+
+132
+00:11:13,440 --> 00:11:18,480
+qu'il soit le bouc �missaire de sa classe,
+que les autres le brutalisent.
+
+133
+00:11:19,280 --> 00:11:20,760
+Dans mon cas,
+
+134
+00:11:21,800 --> 00:11:24,040
+c'est mon fils qui �tait le petit ca�d.
+
+135
+00:11:25,920 --> 00:11:27,760
+Il se faisait toujours renvoyer.
+
+136
+00:11:28,200 --> 00:11:30,440
+Il a fait je ne sais combien d'�coles.
+
+137
+00:11:31,760 --> 00:11:35,920
+Ensuite, sa pauvre m�re,
+qui avait ses vices... Eh bien...
+
+138
+00:11:37,720 --> 00:11:39,920
+elle m'a abandonn�.
+
+139
+00:11:40,720 --> 00:11:41,720
+J'�tais si b�te.
+
+140
+00:11:43,040 --> 00:11:44,720
+Au final, on veut juste...
+
+141
+00:11:46,560 --> 00:11:48,280
+qu'il soit normal.
+
+142
+00:11:48,880 --> 00:11:52,040
+Qu'il ne tra�ne pas dehors,
+en fumant de l'herbe,
+
+143
+00:11:52,920 --> 00:11:54,520
+au lieu d'aller en cours.
+
+144
+00:11:57,960 --> 00:11:59,000
+Mais �tre parent,
+
+145
+00:12:00,280 --> 00:12:02,120
+c'est tr�s bien. C'est...
+
+146
+00:12:03,320 --> 00:12:05,520
+H�, non ! Ne t'endors pas !
+
+147
+00:12:06,360 --> 00:12:07,520
+Regarde-moi !
+
+148
+00:12:07,600 --> 00:12:09,560
+Il ne faut pas dormir. Allez.
+
+149
+00:12:09,640 --> 00:12:12,440
+- Qu'est-ce qui se passe ?
+- Rien, tout va bien.
+
+150
+00:12:12,520 --> 00:12:14,880
+Elle a beaucoup de fi�vre.
+
+151
+00:12:14,960 --> 00:12:17,080
+Ne me quitte pas des yeux.
+
+152
+00:12:18,760 --> 00:12:19,600
+J'ai tout.
+
+153
+00:12:25,760 --> 00:12:27,800
+<i>Plus que cinq minutes.</i>
+
+154
+00:12:28,920 --> 00:12:29,760
+Re�u.
+
+155
+00:12:33,840 --> 00:12:34,680
+Je l'ai.
+
+156
+00:12:40,600 --> 00:12:41,800
+Merci.
+
+157
+00:12:44,800 --> 00:12:45,800
+Recouds-le.
+
+158
+00:12:47,280 --> 00:12:48,680
+Qui �a, moi ?
+
+159
+00:12:48,760 --> 00:12:52,160
+Oui, toi. Tu es infirmier, non ?
+
+160
+00:12:56,600 --> 00:12:57,720
+Alors fais-le.
+
+161
+00:12:59,960 --> 00:13:01,120
+Anesth�sie locale.
+
+162
+00:13:02,000 --> 00:13:04,680
+On l'injecte et on ne sent plus rien.
+
+163
+00:13:20,640 --> 00:13:22,320
+Laisse-moi faire.
+
+164
+00:13:23,120 --> 00:13:25,320
+- V�rifie son pouls.
+- D'accord.
+
+165
+00:13:27,280 --> 00:13:29,000
+�coute-moi. Nous allons...
+
+166
+00:13:29,920 --> 00:13:31,520
+Doucement.
+
+167
+00:13:31,600 --> 00:13:34,880
+Tu sais ce que je vais faire
+quand ce sera fini ?
+
+168
+00:13:35,440 --> 00:13:36,480
+Des �tudes.
+
+169
+00:13:36,960 --> 00:13:37,800
+� distance.
+
+170
+00:13:39,000 --> 00:13:42,120
+- Tu n'as jamais �tudi�.
+- Je ne ferai pas m�decine,
+
+171
+00:13:43,520 --> 00:13:45,480
+mais je reprendrai mes...
+
+172
+00:13:46,200 --> 00:13:47,760
+�a va faire un peu plus mal.
+
+173
+00:13:47,840 --> 00:13:48,840
+Regarde-moi...
+
+174
+00:13:51,760 --> 00:13:52,760
+C'est fini.
+
+175
+00:13:53,560 --> 00:13:54,720
+Et maintenant,
+
+176
+00:13:55,320 --> 00:13:57,000
+on attend cinq minutes
+
+177
+00:13:58,280 --> 00:13:59,800
+et on op�re. D'accord ?
+
+178
+00:13:59,880 --> 00:14:01,120
+Oui.
+
+179
+00:14:09,240 --> 00:14:10,720
+Vous �tes � deux m�tres.
+
+180
+00:14:10,800 --> 00:14:12,360
+L'objectif est en vue.
+
+181
+00:14:34,840 --> 00:14:35,720
+�coutez...
+
+182
+00:14:36,120 --> 00:14:38,440
+Je me sens mal. Je vais �tre malade.
+
+183
+00:14:38,520 --> 00:14:40,720
+Tu es infirmier, danseur, quoi ?
+
+184
+00:14:41,280 --> 00:14:42,160
+Infirmier.
+
+185
+00:14:42,640 --> 00:14:44,880
+Mais je ne travaille pas entour� d'armes.
+
+186
+00:14:45,440 --> 00:14:46,360
+On se calme.
+
+187
+00:14:46,440 --> 00:14:47,320
+Je vais recoudre.
+
+188
+00:14:47,880 --> 00:14:49,320
+Mais taisez-vous.
+
+189
+00:14:49,880 --> 00:14:50,720
+Merci.
+
+190
+00:14:51,280 --> 00:14:52,400
+O.K., allez-y.
+
+191
+00:14:56,080 --> 00:14:57,040
+Pince.
+
+192
+00:15:04,120 --> 00:15:06,400
+- Le Professeur te demande.
+- J'arrive.
+
+193
+00:15:06,480 --> 00:15:08,200
+Emm�ne l'infirmier vomir.
+
+194
+00:15:08,280 --> 00:15:10,920
+S'il n'y arrive pas,
+fais-lui boire la tasse.
+
+195
+00:15:11,000 --> 00:15:12,360
+Jusqu'� ce que �a sorte.
+
+196
+00:15:14,200 --> 00:15:15,200
+Adieu, Arturo.
+
+197
+00:15:16,120 --> 00:15:17,080
+En route.
+
+198
+00:15:26,160 --> 00:15:28,480
+Ils entrent,
+ils �changent par ondes courtes.
+
+199
+00:15:28,560 --> 00:15:29,400
+J'ignore o�.
+
+200
+00:15:29,480 --> 00:15:31,320
+Compris. Je passe au plan B.
+
+201
+00:15:31,560 --> 00:15:33,240
+<i>Et cong�die les m�decins.</i>
+
+202
+00:15:33,800 --> 00:15:34,640
+Tout de suite.
+
+203
+00:15:46,800 --> 00:15:49,520
+<i>Sois fort, mon amour.</i>
+<i>Je vais bien. Je t'aime.</i>
+
+204
+00:16:12,880 --> 00:16:17,160
+<i>L'inspecteur adjoint �ngel comprit</i>
+<i>qu'ils avaient perdu une autre bataille.</i>
+
+205
+00:16:17,360 --> 00:16:20,720
+<i>Ces masques sinistres signifiaient</i>
+<i>la perte de deux hommes.</i>
+
+206
+00:16:21,160 --> 00:16:22,040
+<i>Mais aussi</i>
+
+207
+00:16:22,120 --> 00:16:26,600
+<i>que le cerveau du braquage �tait</i>
+<i>plus malin que la police,</i>
+
+208
+00:16:27,000 --> 00:16:29,520
+<i>les Renseignements</i>
+<i>et l'Unit� d'intervention.</i>
+
+209
+00:16:29,880 --> 00:16:31,680
+<i>Face � un tel avantage,</i>
+
+210
+00:16:32,440 --> 00:16:33,400
+<i>on court.</i>
+
+211
+00:16:33,960 --> 00:16:35,160
+Il faut partir.
+
+212
+00:16:39,400 --> 00:16:42,640
+C'est termin�, mademoiselle.
+On peut partir ?
+
+213
+00:16:44,200 --> 00:16:45,520
+Bien s�r.
+
+214
+00:16:47,800 --> 00:16:48,880
+Suivez-moi.
+
+215
+00:16:54,240 --> 00:16:56,080
+Docteur !
+
+216
+00:16:57,520 --> 00:16:58,360
+Un instant.
+
+217
+00:16:58,440 --> 00:17:00,080
+Une minute et 30 secondes.
+
+218
+00:17:02,840 --> 00:17:04,320
+Des brouilleurs.
+
+219
+00:17:05,720 --> 00:17:07,160
+Su�rez, vous me recevez ?
+
+220
+00:17:07,400 --> 00:17:09,040
+Ils ont des brouilleurs.
+
+221
+00:17:09,360 --> 00:17:10,840
+�a risque de couper.
+
+222
+00:17:10,920 --> 00:17:12,280
+<i>Su�rez, vous recevez ?</i>
+
+223
+00:17:15,680 --> 00:17:18,000
+Des brouilleurs. �a coupe.
+
+224
+00:17:18,080 --> 00:17:19,000
+Su�rez ?
+
+225
+00:17:19,640 --> 00:17:20,960
+�a s'est bien pass� ?
+
+226
+00:17:22,080 --> 00:17:25,280
+Oui, mais on devrait revenir dans 24 h.
+
+227
+00:17:27,120 --> 00:17:30,680
+Merci de votre sollicitude,
+mais nous avons des gens form�s.
+
+228
+00:17:32,280 --> 00:17:33,880
+Mon ami l'infirmier...
+
+229
+00:17:35,240 --> 00:17:36,240
+�a va mieux ?
+
+230
+00:17:36,320 --> 00:17:38,200
+- Oui, merci.
+- Tant mieux.
+
+231
+00:17:38,680 --> 00:17:42,120
+Pardon de ne pas vous raccompagner,
+mais vous �tes entre de bonnes mains.
+
+232
+00:17:42,200 --> 00:17:44,000
+- Au revoir.
+- Au revoir.
+
+233
+00:17:56,640 --> 00:17:58,720
+Saluez l'ext�rieur pour nous !
+
+234
+00:18:05,920 --> 00:18:07,680
+Tu as pr�venu Arturo ?
+
+235
+00:18:09,160 --> 00:18:11,160
+Il sait que je suis en vie ?
+
+236
+00:18:12,160 --> 00:18:14,920
+- Oui. Je ne le lui ai pas dit...
+- Non ?
+
+237
+00:18:15,000 --> 00:18:16,760
+Il a eu ton mot.
+
+238
+00:18:22,920 --> 00:18:23,880
+Il a dit quoi ?
+
+239
+00:18:26,400 --> 00:18:28,800
+Il �tait fou de joie.
+
+240
+00:18:29,600 --> 00:18:30,440
+Il a dit...
+
+241
+00:18:31,440 --> 00:18:32,960
+qu'il t'aime �norm�ment.
+
+242
+00:18:33,040 --> 00:18:34,080
+Quoi d'autre ?
+
+243
+00:18:34,640 --> 00:18:37,680
+Quand tout sera fini, il veut t'emmener
+
+244
+00:18:38,360 --> 00:18:39,480
+en Australie.
+
+245
+00:18:42,480 --> 00:18:43,320
+En Australie ?
+
+246
+00:18:45,680 --> 00:18:46,640
+Je ne la vois pas.
+
+247
+00:18:47,120 --> 00:18:50,040
+Il se demande ce que tu lui trouves.
+
+248
+00:18:51,160 --> 00:18:52,640
+- En Australie.
+- Oui.
+
+249
+00:18:53,800 --> 00:18:55,760
+�a, c'est le r�ve de sa femme.
+
+250
+00:18:58,120 --> 00:19:00,080
+Il sait que j'ai peur en avion.
+
+251
+00:19:02,320 --> 00:19:03,320
+Elle est venue.
+
+252
+00:19:04,200 --> 00:19:05,960
+Sa femme est entr�e ?
+
+253
+00:19:07,280 --> 00:19:08,360
+Laura �tait ici ?
+
+254
+00:19:10,360 --> 00:19:11,760
+Il l'a eue au t�l�phone.
+
+255
+00:19:28,360 --> 00:19:30,320
+- Su�rez.
+- PC, vous me recevez ?
+
+256
+00:19:31,800 --> 00:19:33,440
+PC, vous me recevez ?
+
+257
+00:19:35,440 --> 00:19:36,280
+Merde.
+
+258
+00:19:39,560 --> 00:19:41,520
+Les chirurgiens sortent.
+
+259
+00:19:52,240 --> 00:19:53,520
+Ne vous arr�tez pas.
+
+260
+00:19:54,280 --> 00:19:55,840
+Continuez d'avancer.
+
+261
+00:20:01,400 --> 00:20:05,560
+Maintenant, courez. Courez !
+
+262
+00:20:08,440 --> 00:20:10,120
+Il court. Il y a un souci.
+
+263
+00:20:13,320 --> 00:20:16,600
+Annulez, ils ont chang� de masque !
+Ce ne sont plus des Dal�.
+
+264
+00:20:16,680 --> 00:20:18,200
+Ils vont droit � l'abattoir.
+
+265
+00:20:18,280 --> 00:20:19,120
+Quoi ?
+
+266
+00:20:21,600 --> 00:20:24,000
+Votre attention. Infiltration annul�e.
+
+267
+00:20:24,080 --> 00:20:25,520
+Su�rez, vous recevez ?
+
+268
+00:20:31,040 --> 00:20:32,360
+Objectif atteint.
+
+269
+00:20:33,160 --> 00:20:35,200
+Je retire le panneau et on entre.
+
+270
+00:20:41,400 --> 00:20:42,240
+Vous faites quoi ?
+
+271
+00:20:42,920 --> 00:20:43,760
+Une balle.
+
+272
+00:20:44,400 --> 00:20:45,480
+Une plaie par balle.
+
+273
+00:20:56,120 --> 00:21:00,160
+Oh, c'est pas vrai, Moscou.
+Tu fais n'importe quoi !
+
+274
+00:21:00,240 --> 00:21:01,520
+- Pousse-toi.
+- <i>Et l�,</i>
+
+275
+00:21:01,720 --> 00:21:02,920
+<i>ce fut la surprise.</i>
+
+276
+00:21:03,720 --> 00:21:07,800
+<i>Nairobi mit sa pers�v�rance et sa minutie</i>
+<i>au service du bien commun.</i>
+
+277
+00:21:09,160 --> 00:21:12,240
+<i>Au lieu de les d�noncer,</i>
+<i>elle les aida � sauver M�nica.</i>
+
+278
+00:21:12,320 --> 00:21:13,600
+Je vais m'a�rer.
+
+279
+00:21:13,680 --> 00:21:15,000
+<i>Du moins, sa jambe.</i>
+
+280
+00:21:15,080 --> 00:21:16,720
+Bordel de merde.
+
+281
+00:21:16,800 --> 00:21:18,560
+<i>Elle ne voulait tuer personne.</i>
+
+282
+00:21:18,640 --> 00:21:19,520
+Allez...
+
+283
+00:21:19,600 --> 00:21:21,480
+<i>Et, je le r�p�te,</i>
+
+284
+00:21:21,560 --> 00:21:24,840
+<i>elle n'allait pas laisser quoi que ce soit</i>
+<i>g�cher le plan du Professeur.</i>
+
+285
+00:21:26,960 --> 00:21:28,440
+Su�rez, vous me recevez ?
+
+286
+00:21:29,600 --> 00:21:30,960
+Ils ont chang� de masque !
+
+287
+00:21:32,400 --> 00:21:33,240
+Il y a de la friture.
+
+288
+00:21:33,800 --> 00:21:35,440
+PC, je ne vous entends pas.
+
+289
+00:21:35,520 --> 00:21:37,000
+Ce n'est plus Dal� !
+
+290
+00:21:37,080 --> 00:21:38,280
+<i>C'est du suicide !</i>
+
+291
+00:21:41,800 --> 00:21:43,720
+Infiltration annul�e. Annul�e !
+
+292
+00:21:44,920 --> 00:21:46,080
+<i>C'est un pi�ge !</i>
+
+293
+00:21:46,640 --> 00:21:49,320
+<i>Ils ont chang� de masque.</i>
+<i>Ce n'est plus Dal�.</i>
+
+294
+00:21:49,920 --> 00:21:51,520
+<i>Vous m'entendez ?</i>
+
+295
+00:21:51,600 --> 00:21:53,120
+<i>Infiltration annul�e.</i>
+
+296
+00:21:53,600 --> 00:21:55,600
+- <i>On annule.</i>
+- Bon sang !
+
+297
+00:21:56,160 --> 00:21:57,080
+On se retire.
+
+298
+00:22:10,840 --> 00:22:11,680
+Berlin.
+
+299
+00:22:12,080 --> 00:22:15,960
+Tout va bien.
+Le plan B s'est d�roul� comme pr�vu.
+
+300
+00:22:18,920 --> 00:22:22,960
+<i>Cach� derri�re une voix m�tallique,</i>
+<i>avec ses cam�ras et sa strat�gie,</i>
+
+301
+00:22:23,040 --> 00:22:25,240
+<i>le Professeur �tait</i>
+<i>comme un poisson dans l'eau,</i>
+
+302
+00:22:25,640 --> 00:22:28,440
+<i>lui qui se sentait �tranger</i>
+<i>� tout dans la vie.</i>
+
+303
+00:22:29,280 --> 00:22:32,560
+<i>Aussi diff�rents que Clark Kent</i>
+<i>et Superman.</i>
+
+304
+00:22:33,440 --> 00:22:38,880
+<i>Sans doute � cause de son enfance pass�e</i>
+<i>dans un lit d'h�pital de Saint-S�bastien,</i>
+
+305
+00:22:39,600 --> 00:22:41,520
+<i>entour� de vieilles infirmi�res</i>
+
+306
+00:22:42,120 --> 00:22:43,120
+<i>et de livres.</i>
+
+307
+00:22:45,880 --> 00:22:48,360
+<i>Ce n'�tait pas un type tr�s sociable.</i>
+
+308
+00:22:49,120 --> 00:22:50,760
+<i>Encore moins un s�ducteur.</i>
+
+309
+00:22:51,320 --> 00:22:52,160
+Je peux ?
+
+310
+00:22:54,440 --> 00:22:55,400
+Bien s�r.
+
+311
+00:22:55,960 --> 00:22:57,880
+<i>Et j'adorais le rendre nerveux.</i>
+
+312
+00:23:01,160 --> 00:23:03,160
+Tu fais quoi,
+quand tu ne planifies pas un coup ?
+
+313
+00:23:05,480 --> 00:23:07,160
+Pendant mon temps libre ?
+
+314
+00:23:07,960 --> 00:23:11,640
+- Tu vas danser ou...
+- Oh non, s�rement pas.
+
+315
+00:23:13,640 --> 00:23:14,480
+Une copine ?
+
+316
+00:23:15,920 --> 00:23:16,760
+Une femme ?
+
+317
+00:23:18,640 --> 00:23:20,800
+On avait dit rien de personnel.
+
+318
+00:23:22,720 --> 00:23:23,760
+Tu n'es pas puceau ?
+
+319
+00:23:26,400 --> 00:23:28,040
+J'ai eu des relations.
+
+320
+00:23:29,800 --> 00:23:30,760
+Plusieurs.
+
+321
+00:23:32,120 --> 00:23:34,360
+Courtes et peu nombreuses,
+mais r�elles.
+
+322
+00:23:34,680 --> 00:23:36,800
+Des relations...
+
+323
+00:23:37,600 --> 00:23:38,600
+occasionnelles.
+
+324
+00:23:39,320 --> 00:23:41,520
+Et je ne parle pas de prostitu�es.
+
+325
+00:23:44,120 --> 00:23:45,640
+Tu es gay, de toute fa�on.
+
+326
+00:23:45,720 --> 00:23:47,520
+Bon Dieu, non.
+
+327
+00:23:48,000 --> 00:23:50,840
+Pas du tout. Je ne suis pas de ce bord-l�.
+
+328
+00:23:57,680 --> 00:24:00,880
+Allez faire �a dehors !
+
+329
+00:24:03,440 --> 00:24:05,800
+Les gens sont excit�s
+par toutes sortes de choses.
+
+330
+00:24:06,360 --> 00:24:09,640
+La danse, les muscles, les cheveux blonds,
+
+331
+00:24:09,720 --> 00:24:10,800
+l'accent fran�ais.
+
+332
+00:24:13,280 --> 00:24:14,800
+Tu sais ce qui m'excite ?
+
+333
+00:24:19,480 --> 00:24:20,440
+L'intelligence.
+
+334
+00:24:23,040 --> 00:24:27,880
+Quand tu ne peux pas t'emp�cher
+d'admirer ton interlocuteur.
+
+335
+00:24:27,960 --> 00:24:30,320
+J'adore qu'on me dise des choses
+que j'ignore.
+
+336
+00:24:35,600 --> 00:24:39,840
+C'est r�pertori� dans les dictionnaires,
+�a s'appelle la sapiosexualit�.
+
+337
+00:24:48,360 --> 00:24:49,480
+Tu sais tout, hein ?
+
+338
+00:24:51,080 --> 00:24:53,280
+Pardon, je vais regarder le lancement.
+
+339
+00:24:55,080 --> 00:24:56,120
+Derni�re chose.
+
+340
+00:25:01,520 --> 00:25:02,680
+Comment tu as eu l'id�e de ce coup ?
+
+341
+00:25:04,800 --> 00:25:05,960
+Je ne l'ai pas eue.
+
+342
+00:25:07,760 --> 00:25:08,600
+Qui l'a eue ?
+
+343
+00:25:08,680 --> 00:25:10,520
+Pas moi.
+
+344
+00:25:13,200 --> 00:25:15,320
+Sapiosexuel, �a fait pervers.
+
+345
+00:25:41,560 --> 00:25:43,240
+Bordel, c'est quoi ces masques ?
+
+346
+00:25:43,320 --> 00:25:44,240
+Aucune id�e.
+
+347
+00:25:45,200 --> 00:25:47,880
+Ils avaient la bouche ouverte,
+comme angoiss�s,
+
+348
+00:25:48,400 --> 00:25:52,000
+comme s'ils agonisaient.
+Comme <i>Le Cri</i> de Munch.
+
+349
+00:25:52,560 --> 00:25:53,400
+Munch.
+
+350
+00:25:54,160 --> 00:25:55,480
+L'expressionniste.
+
+351
+00:26:06,600 --> 00:26:10,000
+Dal�. Munch ? Quel sera le prochain ?
+
+352
+00:26:10,360 --> 00:26:12,840
+Ravi que vous posiez la question !
+
+353
+00:26:14,840 --> 00:26:17,360
+Et vous, quel peintre choisiriez-vous ?
+
+354
+00:26:17,920 --> 00:26:20,120
+Je ne sais pas... Picasso ?
+
+355
+00:26:20,760 --> 00:26:21,600
+Goya ?
+
+356
+00:26:26,160 --> 00:26:27,240
+V�lasquez.
+
+357
+00:26:32,800 --> 00:26:33,640
+De Vinci.
+
+358
+00:26:34,200 --> 00:26:36,760
+- <i>Avec la barbe.</i>
+- La barbe, �a me pla�t.
+
+359
+00:26:36,840 --> 00:26:38,280
+Andy Warhol.
+
+360
+00:26:39,360 --> 00:26:40,400
+<i>Celui des soupes.</i>
+
+361
+00:26:41,000 --> 00:26:41,840
+<i>Andy Warhol ?</i>
+
+362
+00:26:41,920 --> 00:26:42,760
+�ngel ?
+
+363
+00:26:43,240 --> 00:26:46,080
+Mais si, Andy Warhol.
+Celui qui a peint Marilyn.
+
+364
+00:26:47,240 --> 00:26:48,280
+Un peintre...
+
+365
+00:26:49,520 --> 00:26:50,600
+hyper connu.
+
+366
+00:26:51,560 --> 00:26:52,520
+Culte.
+
+367
+00:26:53,760 --> 00:26:55,320
+Ses cheveux, ses lunettes.
+
+368
+00:26:55,880 --> 00:26:58,120
+Tu es une vraie pochette-surprise.
+
+369
+00:26:58,200 --> 00:27:00,840
+Une pochette-surprise �quip�e d'un micro.
+
+370
+00:27:01,680 --> 00:27:06,120
+Ils pourraient changer de masques
+tous les jours pendant un mois...
+
+371
+00:27:06,200 --> 00:27:10,080
+Ce n'est pas le plus important,
+inspecteur, et vous le savez.
+
+372
+00:27:10,160 --> 00:27:12,240
+<i>Peu importe. Ce qui compte,</i>
+
+373
+00:27:12,320 --> 00:27:14,480
+c'est comment ils nous ont rep�r�s.
+
+374
+00:27:15,480 --> 00:27:19,200
+Pendant combien temps ont-ils �tudi�
+la moindre de nos r�actions ?
+
+375
+00:27:19,880 --> 00:27:21,720
+La moiti� de ma vie, � vrai dire.
+
+376
+00:27:22,280 --> 00:27:24,080
+Combien de temps comptent-ils rester ?
+
+377
+00:27:24,160 --> 00:27:27,240
+Trois fois rien. Neuf jours de plus.
+Onze, maximum.
+
+378
+00:27:27,320 --> 00:27:29,680
+C'est une partie d'�checs.
+
+379
+00:27:29,760 --> 00:27:30,920
+<i>Et nous perdons.</i>
+
+380
+00:27:31,000 --> 00:27:34,560
+J'ai un cheval de Troie.
+Difficile pour vous de gagner.
+
+381
+00:27:34,640 --> 00:27:36,640
+Il est temps de r�fl�chir
+
+382
+00:27:37,840 --> 00:27:38,960
+et de rembobiner.
+
+383
+00:27:40,280 --> 00:27:41,280
+Revenir au d�but.
+
+384
+00:27:49,280 --> 00:27:51,200
+L'op�ration a d�but� il y a longtemps.
+
+385
+00:27:51,760 --> 00:27:57,280
+Ces individus se sont d�j� trouv�s
+� l'int�rieur de ce b�timent.
+
+386
+00:27:58,000 --> 00:27:59,080
+<i>Seuls ?</i>
+
+387
+00:27:59,720 --> 00:28:02,080
+<i>Pour une premi�re</i>
+<i>ou une derni�re visite ?</i>
+
+388
+00:28:02,880 --> 00:28:04,560
+<i>Combien de visites y a-t-il eu ?</i>
+
+389
+00:28:04,640 --> 00:28:08,000
+Ont-ils parl� � quelqu'un ?
+Fait un signe, jet� un regard ?
+
+390
+00:28:08,080 --> 00:28:11,200
+Ont-ils laiss� un fil d'Ariane ?
+
+391
+00:28:12,720 --> 00:28:18,200
+<i>R�examinez minutieusement</i>
+<i>les images de vid�osurveillance.</i>
+
+392
+00:28:18,280 --> 00:28:20,440
+Les autres, allez vous reposer.
+
+393
+00:28:20,840 --> 00:28:23,440
+Certains n'ont pas dormi depuis 30 heures.
+
+394
+00:28:23,520 --> 00:28:24,360
+Su�rez...
+
+395
+00:28:25,200 --> 00:28:27,480
+vous me remplacez. Appelez si besoin.
+
+396
+00:28:28,720 --> 00:28:30,920
+<i>Rixe � Marcelo Usara. Qui est dispo ?</i>
+
+397
+00:28:31,400 --> 00:28:35,240
+Veuillez lib�rer le canal n� 8
+pour la prise d'otages.
+
+398
+00:28:36,600 --> 00:28:38,960
+<i>N'utilisez pas le canal n� 8. Merci !</i>
+
+399
+00:28:39,600 --> 00:28:42,600
+Tu veux boire un verre avant de rentrer ?
+
+400
+00:28:43,120 --> 00:28:47,480
+Entre manger et dormir,
+d'ordinaire, je choisirais manger,
+
+401
+00:28:47,920 --> 00:28:49,320
+mais je suis claqu�e.
+
+402
+00:28:51,840 --> 00:28:54,320
+<i>Avez-vous jamais pens�</i>
+<i>que, si vous remontiez le temps,</i>
+
+403
+00:28:54,560 --> 00:28:56,480
+<i>vous prendriez peut-�tre</i>
+<i>les m�mes d�cisions ?</i>
+
+404
+00:28:57,200 --> 00:29:00,680
+<i>Nos erreurs forment des boules de neige.</i>
+
+405
+00:29:01,160 --> 00:29:03,040
+<i>Elles deviennent gigantesques.</i>
+
+406
+00:29:03,600 --> 00:29:05,400
+<i>Comme le rocher d'Indiana Jones</i>
+
+407
+00:29:06,000 --> 00:29:08,680
+<i>qui vous poursuit pour vous �craser.</i>
+
+408
+00:29:27,080 --> 00:29:28,160
+Tenez.
+
+409
+00:29:28,240 --> 00:29:30,600
+<i>Les d�cisions prises dans le pass�</i>
+
+410
+00:29:31,240 --> 00:29:33,400
+<i>nous m�nent in�vitablement vers l'avenir.</i>
+
+411
+00:29:34,560 --> 00:29:36,080
+<i>Rio le comprendrait</i>
+
+412
+00:29:37,040 --> 00:29:40,080
+<i>en allumant l'unique t�l�vision</i>
+<i>laiss�e l�,</i>
+
+413
+00:29:41,560 --> 00:29:44,680
+<i>au cas o� nous perdrions contact</i>
+<i>avec le Professeur.</i>
+
+414
+00:29:45,920 --> 00:29:50,240
+Allez, gamin, vas-y.
+Voyons un peu ce qu'on raconte sur nous.
+
+415
+00:29:50,320 --> 00:29:54,000
+<i>Nous vous rappelons qu'un nombre inconnu</i>
+<i>de braqueurs sont entr�s...</i>
+
+416
+00:29:54,080 --> 00:29:57,400
+<i>Que veulent ces braqueurs, exactement ?</i>
+
+417
+00:30:00,120 --> 00:30:03,200
+<i>Le plus gros casse de l'Histoire</i>
+<i>de l'humanit�...</i>
+
+418
+00:30:03,280 --> 00:30:09,280
+Mince, alors. Et ce n'est pas am�ricain.
+C'est "made in" Espagne !
+
+419
+00:30:09,840 --> 00:30:11,000
+{\an8}Putain, mes parents !
+
+420
+00:30:11,080 --> 00:30:12,080
+{\an8}<i>Un adolescent...</i>
+
+421
+00:30:12,160 --> 00:30:13,040
+{\an8}PARENTS D'UN DES CRIMINELS
+
+422
+00:30:13,120 --> 00:30:14,120
+{\an8}<i>... �trange.</i>
+
+423
+00:30:14,600 --> 00:30:16,240
+- <i>Timide.</i>
+- <i>Oui.</i>
+
+424
+00:30:17,080 --> 00:30:19,680
+{\an8}<i>Notre fils restait enferm�</i>
+<i>dans sa chambre.</i>
+
+425
+00:30:20,160 --> 00:30:22,320
+<i>Nous pensions qu'il jouait sur son ordi,</i>
+
+426
+00:30:23,040 --> 00:30:24,960
+{\an8}<i>pas � des activit�s criminelles.</i>
+
+427
+00:30:26,640 --> 00:30:29,960
+<i>Ensuite, vous l'apercevez � la t�l�,</i>
+<i>un fusil � la main.</i>
+
+428
+00:30:30,040 --> 00:30:32,000
+{\an8}<i>Avec 60 otages.</i>
+
+429
+00:30:33,960 --> 00:30:35,720
+{\an8}<i>Comme un djihadiste.</i>
+
+430
+00:30:36,240 --> 00:30:37,080
+{\an8}<i>Paco.</i>
+
+431
+00:30:38,040 --> 00:30:39,560
+<i>Ce n'est plus votre fils.</i>
+
+432
+00:30:40,440 --> 00:30:42,200
+<i>Ce n'est qu'un enfant.</i>
+
+433
+00:30:42,280 --> 00:30:45,200
+{\an8}<i>C'est comme s'il �tait mort.</i>
+
+434
+00:30:45,840 --> 00:30:47,000
+{\an8}<i>Paco !</i>
+
+435
+00:30:47,560 --> 00:30:50,880
+<i>C'�tait la bouleversante d�claration</i>
+<i>des parents...</i>
+
+436
+00:30:53,600 --> 00:30:56,280
+Le Professeur a dit pas d'infos.
+
+437
+00:30:58,000 --> 00:31:00,080
+<i>Il voulait aussi un braquage propre.</i>
+
+438
+00:31:01,040 --> 00:31:03,680
+<i>Pas de sang. Pas de violence.</i>
+
+439
+00:31:54,720 --> 00:31:55,720
+Oui, �ngel ?
+
+440
+00:31:56,160 --> 00:31:57,120
+<i>Salut, Raquel.</i>
+
+441
+00:31:58,080 --> 00:31:59,120
+<i>Je te r�veille ?</i>
+
+442
+00:31:59,960 --> 00:32:01,800
+Non. Il y a un probl�me ?
+
+443
+00:32:01,880 --> 00:32:04,960
+Non, aucun. Rassure-toi.
+
+444
+00:32:06,760 --> 00:32:07,680
+�coute...
+
+445
+00:32:08,160 --> 00:32:10,680
+<i>Je pense � un truc. Tu as une minute ?</i>
+
+446
+00:32:10,760 --> 00:32:12,400
+Laisse-la, elle est crev�e.
+
+447
+00:32:12,880 --> 00:32:14,160
+Oui, bien s�r.
+
+448
+00:32:14,240 --> 00:32:15,640
+<i>Pardon d'�tre si direct.</i>
+
+449
+00:32:16,520 --> 00:32:18,080
+<i>�a venait d'o�,</i>
+<i>ce truc avec Warhol ?</i>
+
+450
+00:32:19,840 --> 00:32:21,680
+- Pardon ?
+- <i>La pochette-surprise.</i>
+
+451
+00:32:21,760 --> 00:32:25,800
+Je n'ai pas le droit d'aimer les mus�es
+ou les peintres modernes ?
+
+452
+00:32:26,640 --> 00:32:28,800
+Autre chose que l'Atl�tico ?
+
+453
+00:32:28,880 --> 00:32:30,520
+Si, bien s�r.
+
+454
+00:32:30,600 --> 00:32:33,800
+�a m'a �tonn�e parce que je ne savais pas.
+
+455
+00:32:34,360 --> 00:32:36,280
+<i>Pareil pour l'Atl�tico.</i>
+
+456
+00:32:36,360 --> 00:32:37,560
+Mais �a me correspond ?
+
+457
+00:32:37,640 --> 00:32:39,680
+- Bien s�r.
+- Bien s�r.
+
+458
+00:32:40,240 --> 00:32:41,400
+<i>�coute, �ngel,</i>
+
+459
+00:32:41,480 --> 00:32:43,640
+je suis ext�nu�e. On parlera demain.
+
+460
+00:32:45,120 --> 00:32:48,080
+L'homme � qui tu tenais la main
+� la caf�t�ria...
+
+461
+00:32:50,240 --> 00:32:51,080
+Tu coucherais avec ?
+
+462
+00:32:52,960 --> 00:32:54,280
+<i>Je veux savoir.</i>
+
+463
+00:32:54,760 --> 00:32:56,640
+�ngel, � quoi tu joues ?
+
+464
+00:32:56,720 --> 00:32:59,000
+Tu coucherais avec lui, oui ou non ?
+
+465
+00:32:59,880 --> 00:33:00,840
+<i>R�ponds.</i>
+
+466
+00:33:03,400 --> 00:33:05,560
+Oui. Oui, pourquoi pas ?
+
+467
+00:33:06,400 --> 00:33:08,240
+<i>J'ai 40 ans, je suis libre.</i>
+
+468
+00:33:08,800 --> 00:33:10,960
+�a me ferait du bien de baiser.
+
+469
+00:33:11,760 --> 00:33:14,880
+<i>�a me changerait les id�es.</i>
+
+470
+00:33:15,560 --> 00:33:17,080
+Je le ferais s�rement.
+
+471
+00:33:18,280 --> 00:33:19,120
+Et apr�s ?
+
+472
+00:33:22,840 --> 00:33:23,680
+Je comprends.
+
+473
+00:33:25,000 --> 00:33:27,160
+Tu tentes le coup avec un inconnu.
+
+474
+00:33:31,120 --> 00:33:34,600
+Ce qui s'est pass� � Cercedilla
+�tait une br�ve liaison.
+
+475
+00:33:35,360 --> 00:33:36,760
+<i>�a fait huit ans.</i>
+
+476
+00:33:37,240 --> 00:33:40,000
+J'y ai coup� court,
+car nous sommes coll�gues.
+
+477
+00:33:40,080 --> 00:33:41,520
+Et amis, Raquel.
+
+478
+00:33:42,080 --> 00:33:43,040
+Et amis.
+
+479
+00:33:43,720 --> 00:33:45,680
+- Et tu es mari�.
+- <i>Car tu disais</i>
+
+480
+00:33:46,440 --> 00:33:49,320
+que �a ne pouvait pas marcher
+avec un coll�gue.
+
+481
+00:33:49,400 --> 00:33:51,960
+<i>Puis tu t'es mari�e. Avec un coll�gue.</i>
+
+482
+00:33:52,040 --> 00:33:53,480
+Car tu ne me vois pas
+
+483
+00:33:54,080 --> 00:33:57,960
+comme un gagnant, mais comme un loser
+incapable d'aimer Warhol.
+
+484
+00:33:58,920 --> 00:34:01,360
+<i>Si je pouvais �tre un homme � tes yeux,</i>
+
+485
+00:34:02,640 --> 00:34:05,480
+je n'h�siterais pas � quitter Carmen.
+
+486
+00:34:12,080 --> 00:34:13,920
+Excuse-moi, Raquel.
+
+487
+00:34:14,760 --> 00:34:16,320
+Putain, je perds les p�dales.
+
+488
+00:34:17,560 --> 00:34:20,600
+<i>Cette affaire nous rend fou.</i>
+
+489
+00:34:22,480 --> 00:34:24,040
+C'est bien vrai.
+
+490
+00:34:24,440 --> 00:34:25,760
+Elle nous rend tous fous.
+
+491
+00:34:25,840 --> 00:34:30,880
+<i>Il est tard, �ngel. Va dormir.</i>
+
+492
+00:34:31,920 --> 00:34:33,000
+Bonne nuit.
+
+493
+00:34:33,640 --> 00:34:34,640
+<i>Bonne nuit.</i>
+
+494
+00:35:02,520 --> 00:35:03,840
+C'�tait qui ?
+
+495
+00:35:04,920 --> 00:35:06,880
+Je r�ve, tu m'espionnes.
+
+496
+00:35:06,960 --> 00:35:08,840
+J'ai entendu, je n'y peux rien.
+
+497
+00:35:08,920 --> 00:35:10,680
+Oublie tout �a et va dormir.
+
+498
+00:35:10,760 --> 00:35:12,320
+Je n'y arriverai plus.
+
+499
+00:35:12,800 --> 00:35:13,640
+Voyons.
+
+500
+00:35:13,720 --> 00:35:15,280
+C'est quoi, cette fois ?
+
+501
+00:35:15,360 --> 00:35:16,720
+Deux pr�tendants ?
+
+502
+00:35:16,800 --> 00:35:19,720
+Ce n'est pas un pr�tendant,
+c'est mon coll�gue.
+
+503
+00:35:19,800 --> 00:35:25,200
+Mais tu l'as rendu jaloux
+avec l'homme du bar.
+
+504
+00:35:25,800 --> 00:35:28,240
+Maman, je ne le rendais pas jaloux.
+
+505
+00:35:28,320 --> 00:35:30,000
+Ne te ferme pas de portes.
+
+506
+00:35:30,080 --> 00:35:33,120
+Tu n'es plus mari�e, tu peux bien picorer.
+
+507
+00:35:33,200 --> 00:35:35,160
+- Picorer ?
+- Oui, picorer.
+
+508
+00:35:36,080 --> 00:35:36,920
+Ch�rie,
+
+509
+00:35:37,680 --> 00:35:39,200
+l'amour nous fait voir
+
+510
+00:35:40,280 --> 00:35:42,280
+la vie d'une autre couleur.
+
+511
+00:35:44,920 --> 00:35:47,280
+Et tu vois les choses trop en noir.
+
+512
+00:35:51,880 --> 00:35:56,320
+- Tu n'as peut-�tre pas surmont�...
+- Maman, s'il te pla�t.
+
+513
+00:35:56,400 --> 00:35:58,600
+Qu'est-ce que je n'ai pas surmont� ?
+
+514
+00:35:58,680 --> 00:36:01,040
+Toi aussi, tu penses que j'ai menti ?
+
+515
+00:36:02,000 --> 00:36:06,320
+Et que je suis aigrie parce que
+mon ex a une liaison avec ma s�ur ?
+
+516
+00:36:06,400 --> 00:36:08,640
+Ton mari a une liaison avec ta s�ur ?
+
+517
+00:36:11,560 --> 00:36:13,440
+Qu'est-ce que tu racontes ?
+
+518
+00:36:17,560 --> 00:36:19,920
+Quoi ? Oh, rien.
+
+519
+00:36:20,000 --> 00:36:21,680
+J'essayais de d�dramatiser.
+
+520
+00:36:22,640 --> 00:36:28,440
+Cet homme aura fini par coucher
+avec les deux s�urs, comme dans un porno.
+
+521
+00:36:30,400 --> 00:36:32,840
+Tu vas bien, maman ?
+
+522
+00:36:38,760 --> 00:36:40,720
+Et tu t'en sors, avec ce braquage ?
+
+523
+00:36:43,280 --> 00:36:47,520
+�a va mal. Je reste assise,
+les bras crois�s, toute la journ�e.
+
+524
+00:36:48,400 --> 00:36:50,640
+Je suis dans l'impasse et...
+
+525
+00:36:50,720 --> 00:36:52,840
+Tu restes assise, ma fille ?
+
+526
+00:36:53,240 --> 00:36:55,360
+Il te faut courir.
+
+527
+00:36:55,440 --> 00:36:57,720
+C'est ainsi qu'on coince les m�chants.
+
+528
+00:36:57,800 --> 00:36:59,320
+Comme si tu l'ignorais.
+
+529
+00:37:06,080 --> 00:37:07,560
+Bonne nuit, ma ch�rie.
+
+530
+00:37:50,560 --> 00:37:51,960
+Quelle charmante visite.
+
+531
+00:38:04,320 --> 00:38:05,960
+Tu devrais venir plus souvent.
+
+532
+00:38:10,440 --> 00:38:12,280
+Tu as un beau bureau, je vois.
+
+533
+00:38:12,840 --> 00:38:14,880
+- �a en fait deux.
+- J'aime les bureaux.
+
+534
+00:38:16,160 --> 00:38:17,240
+Mon r�ve,
+
+535
+00:38:18,520 --> 00:38:20,960
+c'est un bureau en acajou.
+
+536
+00:38:23,480 --> 00:38:26,280
+Mais crime et bureaux ne vont pas de pair.
+
+537
+00:38:29,040 --> 00:38:30,000
+Il fait chaud.
+
+538
+00:38:34,880 --> 00:38:37,840
+Tu as mis le gilet pare-balles
+pour venir me voir.
+
+539
+00:38:40,440 --> 00:38:41,760
+J'aurais pr�f�r� un corset.
+
+540
+00:38:41,840 --> 00:38:42,880
+V�nitien.
+
+541
+00:38:44,360 --> 00:38:45,200
+Vois-tu...
+
+542
+00:38:46,600 --> 00:38:48,120
+je ne te comprends pas.
+
+543
+00:38:49,120 --> 00:38:49,960
+Que veux-tu ?
+
+544
+00:38:54,760 --> 00:38:55,600
+J'aimerais,
+
+545
+00:38:59,920 --> 00:39:01,000
+s'il te pla�t...
+
+546
+00:39:03,040 --> 00:39:04,880
+que tu appelles le Professeur...
+
+547
+00:39:06,080 --> 00:39:07,240
+pour lui dire...
+
+548
+00:39:08,960 --> 00:39:10,520
+que tu as ex�cut� un otage.
+
+549
+00:39:12,560 --> 00:39:13,960
+Vilain.
+
+550
+00:39:20,320 --> 00:39:21,480
+Tu sais pourquoi ?
+
+551
+00:39:24,240 --> 00:39:26,040
+Parce que cet homme veille sur moi
+
+552
+00:39:27,040 --> 00:39:28,360
+et que si tu te tais,
+
+553
+00:39:28,720 --> 00:39:30,680
+- je devrai le pr�venir.
+- Toi ?
+
+554
+00:39:32,480 --> 00:39:33,880
+Et devenir une balance ?
+
+555
+00:39:34,840 --> 00:39:37,280
+Un cafard r�pugnant ?
+
+556
+00:39:39,200 --> 00:39:41,560
+Je m'y oppose, je suis un gentleman.
+
+557
+00:40:22,600 --> 00:40:24,120
+J'ai enfreint la premi�re r�gle.
+
+558
+00:40:27,520 --> 00:40:28,680
+J'ai tu� un otage.
+
+559
+00:40:31,000 --> 00:40:35,680
+<i>Enfin, pas moi. Denver.</i>
+
+560
+00:40:35,760 --> 00:40:38,360
+Mais il ob�issait � mes ordres.
+
+561
+00:40:40,120 --> 00:40:42,280
+<i>Et j'ai voulu te le dire moi-m�me.</i>
+
+562
+00:40:54,160 --> 00:40:55,920
+C'�tait l'unique interdiction.
+
+563
+00:40:58,880 --> 00:41:00,040
+<i>Tu as tout g�ch�.</i>
+
+564
+00:41:02,640 --> 00:41:04,280
+Je comprends ton choc.
+
+565
+00:41:04,840 --> 00:41:06,520
+<i>Tu as tout g�ch�.</i>
+
+566
+00:41:07,080 --> 00:41:09,280
+Elle avait un portable entre les jambes.
+
+567
+00:41:11,000 --> 00:41:14,480
+Elle n'allait peut-�tre qu'appeler
+sa cousine Chelito
+
+568
+00:41:15,520 --> 00:41:17,600
+pour lui dire qu'elle se tapait le patron,
+
+569
+00:41:17,680 --> 00:41:20,160
+mais � mon avis,
+elle voulait appeler la police.
+
+570
+00:41:24,800 --> 00:41:26,520
+Il n'y aura plus de portables.
+
+571
+00:41:27,320 --> 00:41:28,480
+Sois-en s�r.
+
+572
+00:41:28,560 --> 00:41:29,600
+Qui �tait-ce ?
+
+573
+00:41:31,200 --> 00:41:32,920
+M�nica Gaztambide.
+
+574
+00:41:44,760 --> 00:41:45,880
+<i>Tu vas me punir ?</i>
+
+575
+00:41:48,000 --> 00:41:49,240
+Tu devrais.
+
+576
+00:41:50,800 --> 00:41:52,480
+<i>Tu es un id�aliste.</i>
+
+577
+00:41:53,280 --> 00:41:56,240
+<i>Tu crois qu'on aura le fric</i>
+<i>si on le r�clame poliment.</i>
+
+578
+00:41:56,320 --> 00:42:01,080
+Tu voudrais �tre un type bien
+tout en ayant de quoi raser le b�timent.
+
+579
+00:42:01,640 --> 00:42:02,840
+<i>Fini de jouer.</i>
+
+580
+00:42:03,680 --> 00:42:05,320
+Il va falloir me punir.
+
+581
+00:42:05,960 --> 00:42:08,360
+<i>Parce que si tu es faible, �a finira mal.</i>
+
+582
+00:42:08,920 --> 00:42:11,520
+�a fait des ann�es que je te le r�p�te.
+
+583
+00:42:14,280 --> 00:42:17,440
+Ce n'est pas moi qui ai un probl�me,
+c'est toi.
+
+584
+00:42:19,520 --> 00:42:22,720
+<i>Il faut me punir pour me montrer</i>
+<i>que tu es capable</i>
+
+585
+00:42:22,800 --> 00:42:24,800
+de tenir fermement le gouvernail.
+
+586
+00:42:25,880 --> 00:42:28,160
+Que je peux te faire confiance.
+
+587
+00:42:31,360 --> 00:42:33,120
+<i>Tu n'as pas envie de parler.</i>
+
+588
+00:42:34,640 --> 00:42:38,600
+<i>Personne ne sait pour cette femme,</i>
+<i>donc le plan est maintenu.</i>
+
+589
+00:42:39,360 --> 00:42:41,880
+Ils exigeront une preuve de vie
+d'ici 48 h.
+
+590
+00:43:19,040 --> 00:43:21,040
+Sous-titres :
+Nidal Faurass
